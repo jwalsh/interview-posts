@@ -1,6 +1,6 @@
 # interview-posts
 
-Create an application in the framework or library of your choice (Angular, React, Vue.js, Backbone, jQuery, or none) to display a list of the 40 posts with the author and their website. 
+Create an application in the framework or library of your choice (Angular, React, Vue.js, Backbone, jQuery, or none) to display a list of 40 posts with the author and their website. 
 
 # Data 
 
