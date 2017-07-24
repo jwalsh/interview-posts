@@ -1,6 +1,12 @@
-# interview-posts
+# Posts by Author
 
-Create an application in the framework or library of your choice (Angular, React, Vue.js, Backbone, jQuery, or none) to display a list of the 40 posts with the author and their website. 
+Node JS/Angular/React app that shows a list of posts with their owners and website.
+
+* Feel free to use any framework (Angular, React, Vue.js, Backbone, or none)
+* Feel free to use any third party library
+* Submit deployable app with detailed setup instructions. 
+* Take your time to complete the exercise. It is the only way for us to know how you code.
+
 
 # Data 
 
@@ -10,9 +16,8 @@ Use the following APIs for getting the posts and authors:
 - https://jsonplaceholder.typicode.com/users
 
 
-# Outcome 
-
 ## Posts by Author
+
 | Name | Website | Post
 | --- | --- | --- |
 | Leanne Graham | hildegard.org | sunt aut facere repellat provident occaecati excepturi optio reprehenderit |
