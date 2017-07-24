@@ -1,6 +1,6 @@
 # Posts by Author
 
-Node JS/Angular/React app that shows a list of posts with their owners and website.
+Create app that shows a list of posts with their owners and website.
 
 * Feel free to use any framework (Angular, React, Vue.js, Backbone, or none)
 * Feel free to use any third party library
