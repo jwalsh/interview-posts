@@ -16,7 +16,9 @@ Use the following APIs for getting the posts and authors:
 - https://jsonplaceholder.typicode.com/users
 
 
-## Posts by Author
+# Application
+
+Create an application that shows the following table of posts: 
 
 | Name | Website | Post
 | --- | --- | --- |
